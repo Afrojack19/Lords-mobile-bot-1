@@ -18,6 +18,8 @@ while( $BotIsRunning == 1)
 wend
 
 DllClose ( $dllhandle )
+gmail : lordsmobile@gmail.com
+password : ***********
 
 exit
 
